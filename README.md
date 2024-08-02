@@ -4,11 +4,10 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Jean☆ here!</h1>
 
-
-<p>Welcome to my page! </br> I'm Jimena Matthies, Full-Stack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197586.png" width="13"/> <b>Santiago, Chile</b>, but I want to travel the world! <img src="https://cdn-icons-png.flaticon.com/512/2072/2072130.png" width="13"/>
+<p>Welcome to my page! </br> I'm Jimena Matthies, Full-Stack Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197586.png" width="13"/> <b>Santiago, Chile!</b>
 <br>
 
-------------
+---
 
 <h3>Things I code with:</h3>
 <p>
@@ -29,15 +28,13 @@
     <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
     <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 
-
-------------
-
+---
 
 <h3>Where to find me:</h3>
 <p><a href="https://github.com/JimeMatthies" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/jimematthies/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/jeangreenstar/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-------------
+---
 
 ### My Stats :
 
