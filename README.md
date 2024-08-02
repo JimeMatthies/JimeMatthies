@@ -38,7 +38,7 @@
 
 ### My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JimeMatthies&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JimeMatthies)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JimeMatthies&show_icons=true&theme=radical)
 
