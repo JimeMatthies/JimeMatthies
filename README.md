@@ -38,7 +38,7 @@
 
 ### My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JimeMatthies)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JimeMatthies&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JimeMatthies&show_icons=true&theme=radical)
 
