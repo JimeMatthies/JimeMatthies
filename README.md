@@ -16,6 +16,7 @@
 ![Static Badge](https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Javascript-f7df1d?style=for-the-badge&logo=javascript&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/React-149fca?style=for-the-badge&logo=react&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Node.js-3e863d?style=for-the-badge&logo=nodedotjs&labelColor=white)
 
 <h3>Things I code with:</h3>
 <p>
