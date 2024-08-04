@@ -20,6 +20,9 @@
 ![Static Badge](https://img.shields.io/badge/Python-316b99?style=for-the-badge&logo=python&logoColor=ffd43a&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=black&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/JWT-fc085e?style=for-the-badge&logo=jsonwebtokens&logoColor=00b9f1&labelColor=white)
+![Static Badge](https://img.shields.io/badge/MySQL-e9972a?style=for-the-badge&logo=mysql&logoColor=00728a&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Git-413100?style=for-the-badge&logo=git&logoColor=f05133&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Github-0d1117?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=white)
 
 <h3>Things I code with:</h3>
 <p>
