@@ -18,6 +18,7 @@
 ![Static Badge](https://img.shields.io/badge/React-149fca?style=for-the-badge&logo=react&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Node.js-3e863d?style=for-the-badge&logo=nodedotjs&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Python-3872a2?style=for-the-badge&logo=python&labelColor=white)
+![Static Badge](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask&logoColor=black&labelColor=white)
 
 <h3>Things I code with:</h3>
 <p>
