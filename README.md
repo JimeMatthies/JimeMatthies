@@ -28,6 +28,8 @@
 ![Static Badge](https://img.shields.io/badge/Spring-6cb52d?style=for-the-badge&logo=spring&logoColor=6cb52d&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Webpack-8ed6fb?style=for-the-badge&logo=webpack&logoColor=1c78c0&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Insomnia-5700cd?style=for-the-badge&logo=insomnia&logoColor=5700cd&labelColor=white)
+![Static Badge](https://img.shields.io/badge/NetBeans-1b6ac6?style=for-the-badge&logo=apachenetbeanside&logoColor=1b6ac6&labelColor=white)
+![Static Badge](https://img.shields.io/badge/NPM-cc3838?style=for-the-badge&logo=npm&logoColor=cc3838&labelColor=white)
 
 <h3>Things I code with:</h3>
 <p>
