@@ -9,6 +9,10 @@
 
 ---
 
+### Things I code with:
+
+![Static Badge](https://img.shields.io/badge/HTML5-e54c21?style=for-the-badge&logo=html5&labelColor=white)
+
 <h3>Things I code with:</h3>
 <p>
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-e34e24?style=flat-square&logo=html5&logoColor=white" />
