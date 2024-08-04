@@ -14,11 +14,11 @@
 ![Static Badge](https://img.shields.io/badge/HTML5-e54c21?style=for-the-badge&logo=html5&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS3-264ee4?style=for-the-badge&logo=css3&logoColor=264ee4&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&labelColor=white)
-![Static Badge](https://img.shields.io/badge/Javascript-f7df1d?style=for-the-badge&logo=javascript&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Javascript-f7df1d?style=for-the-badge&logo=javascript&logoColor=f7df1d&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/React-149fca?style=for-the-badge&logo=react&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Node.js-3e863d?style=for-the-badge&logo=nodedotjs&labelColor=white)
-![Static Badge](https://img.shields.io/badge/Python-3872a2?style=for-the-badge&logo=python&labelColor=white)
-![Static Badge](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask&logoColor=black&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Python-316b99?style=for-the-badge&logo=python&logoColor=ffd43a&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=black&labelColor=white)
 
 <h3>Things I code with:</h3>
 <p>
