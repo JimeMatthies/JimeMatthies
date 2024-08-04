@@ -13,6 +13,7 @@
 
 ![Static Badge](https://img.shields.io/badge/HTML5-e54c21?style=for-the-badge&logo=html5&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS3-264ee4?style=for-the-badge&logo=css3&logoColor=264ee4&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&labelColor=white)
 
 <h3>Things I code with:</h3>
 <p>
