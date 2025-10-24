@@ -1,10 +1,10 @@
 <div align="center">
-<img max-width="800" src="./Assets/WallpaperAuroraBorealis.jpg"/>
+<img max-width="800" src="./Assets/Banner.png"/>
 </div>
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Jean☆ here!</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Jeanvibe here!</h1>
 
-<p>Welcome to my page! </br> I'm Jimena Matthies, Full-Stack Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197586.png" width="13"/> <b>Santiago, Chile! !</b>
+<p>Welcome to my page! </br> I'm María Jimena Matthies Véliz, Full-Stack Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197586.png" width="13"/> <b>Santiago, Chile! !</b>
 <br>
 
 ---
