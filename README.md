@@ -41,10 +41,11 @@
 
 ---
 
-### My Stats:
+<!-- ### My Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jimematthies&theme=nightowl&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JimeMatthies&show_icons=true&theme=nightowl)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimeMatthies&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+ -->
